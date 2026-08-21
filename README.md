@@ -2,7 +2,7 @@
 
 **This is a work in progress repo. It is NOT ready for use and won't be for a while. Once I feel comfortable with the state of it, I will remove this banner from the README.**
 
-<p align="center"> <img src="src/psswd_box/resources/images/psswd_box-256.png" /> </p>
+<p align="center"> <img src="src/psswd_box/resources/images/safari_battle_tracker-256.png" /> </p>
 
 ## Donations
 
