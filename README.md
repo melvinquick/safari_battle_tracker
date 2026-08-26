@@ -17,7 +17,7 @@ This app is to give you a way to calculate catch and flee rates in real time for
 
 ## Install/Update/Uninstall
 
-Install: `curl -s https://raw.githubusercontent.com/melvinquick/safari_battle_tracker/raw/branch/main/install.py | python3 -`
+Install: `curl -s https://raw.githubusercontent.com/melvinquick/safari_battle_tracker/main/install.py | python3 -`
 
 ## Useful Information
 
