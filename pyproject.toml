@@ -1,6 +1,6 @@
 [project]
 name = "safari_battle_tracker"
-version = "0.2.0"
+version = "0.3.0"
 description = "Live tracking of catch and flee rates in Pokemon Safari Zones."
 readme = "src/safari_battle_tracker/resources/PYPI_README.md"
 license = "MIT"
@@ -13,7 +13,7 @@ repository = "https://github.com/melvinquick/safari_battle_tracker"
 issues = "https://github.com/melvinquick/safari_battle_tracker/issues"
 
 [project.gui-scripts]
-safari-battle-tracker-app = "safari_battle_tracker.app:main"
+safari-battle-tracker = "safari_battle_tracker.app:main"
 
 [project.scripts]
 safari-battle-tracker-cli = "safari_battle_tracker.cli:main"
