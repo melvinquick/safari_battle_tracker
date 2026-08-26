@@ -1,6 +1,6 @@
 [project]
 name = "safari_battle_tracker"
-version = "0.1.0"
+version = "0.2.0"
 description = "Live tracking of catch and flee rates in Pokemon Safari Zones."
 readme = "src/safari_battle_tracker/resources/PYPI_README.md"
 license = "MIT"
