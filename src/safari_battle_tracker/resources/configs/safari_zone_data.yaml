@@ -1,5 +1,26 @@
 generation_3:
   kanto:
+    chansey:
+      catch_rate: 30
+      escape_rate: 125
+    doduo:
+      catch_rate: 190
+      escape_rate: 50
+    dragonair:
+      catch_rate: 45
+      escape_rate: 125
+    dratini:
+      catch_rate: 45
+      escape_rate: 100
+    exeggcute:
+      catch_rate: 90
+      escape_rate: 75
+    goldeen:
+      catch_rate: 225
+      escape_rate: 50
+    kangaskhan:
+      catch_rate: 45
+      escape_rate: 125
     magikarp:
       catch_rate: 255
       escape_rate: 25
@@ -9,66 +30,45 @@ generation_3:
     nidoran_m:
       catch_rate: 235
       escape_rate: 50
-    paras:
-      catch_rate: 190
-      escape_rate: 50
-    venonat:
-      catch_rate: 190
-      escape_rate: 50
-    psyduck:
-      catch_rate: 190
-      escape_rate: 50
-    poliwag:
-      catch_rate: 255
-      escape_rate: 50
-    slowpoke:
-      catch_rate: 190
-      escape_rate: 50
-    doduo:
-      catch_rate: 190
-      escape_rate: 50
-    goldeen:
-      catch_rate: 225
-      escape_rate: 50
     nidorina:
       catch_rate: 120
       escape_rate: 75
     nidorino:
       catch_rate: 120
       escape_rate: 75
+    paras:
+      catch_rate: 190
+      escape_rate: 50
     parasect:
       catch_rate: 75
       escape_rate: 75
-    venomoth:
-      catch_rate: 75
-      escape_rate: 75
-    exeggcute:
-      catch_rate: 90
-      escape_rate: 75
-    rhyhorn:
-      catch_rate: 120
-      escape_rate: 75
-    seaking:
-      catch_rate: 60
-      escape_rate: 75
-    dratini:
-      catch_rate: 45
-      escape_rate: 100
-    chansey:
-      catch_rate: 30
-      escape_rate: 125
-    kangaskhan:
-      catch_rate: 45
-      escape_rate: 125
-    scyther:
-      catch_rate: 45
-      escape_rate: 125
     pinsir:
       catch_rate: 45
       escape_rate: 125
+    poliwag:
+      catch_rate: 255
+      escape_rate: 50
+    psyduck:
+      catch_rate: 190
+      escape_rate: 50
+    rhyhorn:
+      catch_rate: 120
+      escape_rate: 75
+    scyther:
+      catch_rate: 45
+      escape_rate: 125
+    seaking:
+      catch_rate: 60
+      escape_rate: 75
+    slowpoke:
+      catch_rate: 190
+      escape_rate: 50
     tauros:
       catch_rate: 45
       escape_rate: 125
-    dragonair:
-      catch_rate: 45
-      escape_rate: 125
+    venonat:
+      catch_rate: 190
+      escape_rate: 50
+    venomoth:
+      catch_rate: 75
+      escape_rate: 75
