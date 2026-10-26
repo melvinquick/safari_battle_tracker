@@ -1,11 +1,11 @@
 [project]
 name = "safari_battle_tracker"
-version = "0.3.0"
+version = "0.3.14"
 description = "Live tracking of catch and flee rates in Pokemon Safari Zones."
 readme = "src/safari_battle_tracker/resources/PYPI_README.md"
 license = "MIT"
 authors = [{ name = "Melvin Quick", email = "melvinquick@proton.me" }]
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 dependencies = ["pyside6>=6.11.2", "pyyaml>=6.0.3"]
 
 [project.urls]
