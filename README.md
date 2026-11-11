@@ -1,3 +1,5 @@
+> # THIS PROJECT WILL BE ARCHIVED AND NO LONGER ACTIVELY MAINTAINED!
+
 <p align="center"> <img src="src/safari_battle_tracker/resources/images/safari_battle_tracker-256.png" /> </p>
 
 ## Donations
